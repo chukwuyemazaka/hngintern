@@ -1,0 +1,50 @@
+
+#Chukwuyemazaka{
+    color: #000;
+    font-family: cursive;
+    font-weight: 4rem;
+    padding: 50px;
+}
+.img{
+    background-color: #EEEEEE;
+    margin-left:50px;
+    margin-right: 500px;
+    border-radius: 10%;
+    box-shadow: 0 3px 10px;
+}
+
+#slackDisplayImage {
+    border-radius: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px;
+}
+
+ #currentUTCTime {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: cursive;
+    font-weight: 4rem;
+}
+
+#currentDayOfTheWeek{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: cursive;
+    font-weight: 4rem;
+}
+h4{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: cursive;
+    font-weight: 4rem; 
+}
+#myTrack{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: cursive;
+    font-weight: 4rem; 
+}
+button{
+    color: black;
+    font-family: cursive;
+}
